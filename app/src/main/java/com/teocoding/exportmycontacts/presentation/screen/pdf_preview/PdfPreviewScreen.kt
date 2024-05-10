@@ -67,7 +67,7 @@ fun PdfPreviewScreen(
             .onGloballyPositioned {
                 boxSize = it.size
             }
-            .background(Color.LightGray)
+            .background(Color(0xFFF1F1F1))
             .fillMaxSize()
     ) {
 

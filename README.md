@@ -9,7 +9,7 @@ ExportMyContacts is a simple app designed to export your phone book contacts int
 ## Screenshots
 
 <p align="center" width="100%">
-    <img width="25%" src="screenshots/screenshot_select.png">
+    <img width="25%" src="screenshots/screenshot_contact_selection.png">
     <img width="25%" src="screenshots/screenshot_pdf_preview.png">
 </p>
 
